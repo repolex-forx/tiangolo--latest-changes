@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/latest-changes/commit/a7500b7359fdef831b5c192e9c86865e4e464574",
       "git:hexsha": "a7500b7359fdef831b5c192e9c86865e4e464574",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T04:21:55.768416+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/latest-changes/commit/a410866c9418b2af6ed9fabd400277138a073102",
